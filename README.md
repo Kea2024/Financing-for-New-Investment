@@ -16,6 +16,9 @@
 
 The goal is to provide the company some alternatives analysis as they explore probable sources of financing to start offering the new service.
 
+![Screenshot 2024-07-25 141742](https://github.com/user-attachments/assets/d1ae5138-b6fb-45f0-866f-276b59e14b01)
+
+
 ### Data Source
 
 Sales Data: The primary source for this data is the "investment.csv" file containing detailed information about each sale made by the company.
